@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XHLj272ka/CYu5b1+w9tmTF+wjsYIxVHj6XpBnVD79SfmrD2vA4tr3GQ9kcDMe8UxAHmSAQtRbxA5pY4cDvfZw==",
+  "success": true,
+  "projectFilePath": "C:\\4. Portfolio\\Unit Testing Principles with C# and NUnit\\Course Content - New\\Iteration_1\\SoftwareRegressionPrinciple\\SoftwareRegressionPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dejan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
